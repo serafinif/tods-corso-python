@@ -1,0 +1,23 @@
+[project]
+name = "tods-corso-python"
+version = "0.1.0"
+description = "Corso"
+authors = [
+    {name = "serafinif",email = "f.serafini@todsgroup.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+]
+
+[tool.poetry]
+packages = [{include = "corso_python_base"}]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[dependency-groups]
+dev = [
+    "ipykernel (>=7.1.0,<8.0.0)"
+]
