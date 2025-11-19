@@ -163,7 +163,7 @@ Al termine, gli studenti saranno in grado di:
 1. Conto Bancario.
 2. Timer da cucina.
 3. Gestionale di biblioteca con ereditarietà.
-4. Simulatore di Pokemon.
+4. Impiccato.
 5. Distributore automatico di snack.
 6. Gestore di animali in un rifugio.
 
@@ -188,7 +188,11 @@ Al termine, gli studenti saranno in grado di:
 ### 🧾 Modulo 10 – Prova finale del corso
 Sviluppo e presentazione di un mini progetto.
 
-Traccia:
+Traccia 1:
+
+Realizzare un gioco interattivo a turni che simula una battaglia Pokémon a squadre tra il giocatore e il computer.
+
+Traccia 2:
 
 Realizzare un progetto Python completo che analizzi il dataset immobiliare **"House Sales in King County (USA)"**, contenente informazioni su oltre 20.000 case.
 
