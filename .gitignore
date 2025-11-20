@@ -1,1 +1,11 @@
 soluzioni_locale/
+
+*.csv
+*.json
+*.log
+*.txt
+mypackage/
+logs/
+
+math_utils.py
+__pycache__/
