@@ -1,0 +1,10 @@
+{
+  "Pikachu":    { "tipo": "Elettrico", "hp": 45, "attacco": 15, "difesa": 6,  "costo": 40 },
+  "Bulbasaur":  { "tipo": "Erba",      "hp": 50, "attacco": 12, "difesa": 8,  "costo": 30 },
+  "Charmander": { "tipo": "Fuoco",     "hp": 43, "attacco": 14, "difesa": 7,  "costo": 35 },
+  "Squirtle":   { "tipo": "Acqua",     "hp": 48, "attacco": 11, "difesa": 10, "costo": 35 },
+  "Eevee":      { "tipo": "Normale",   "hp": 46, "attacco": 13, "difesa": 7,  "costo": 25 },
+  "Jigglypuff": { "tipo": "Normale",   "hp": 52, "attacco": 10, "difesa": 6,  "costo": 25 },
+  "Geodude":    { "tipo": "Roccia",    "hp": 55, "attacco": 12, "difesa": 12, "costo": 35 },
+  "Psyduck":    { "tipo": "Acqua",     "hp": 47, "attacco": 13, "difesa": 8,  "costo": 30 }
+}
