@@ -1,0 +1,5 @@
+16:04:38 [INFO] === DataHouse avviato ===
+16:04:38 [INFO] ✅ Caricato dataset: 21613 righe
+16:04:38 [INFO] Report generato in output/report.json
+16:04:38 [INFO] Grafici salvati in output/grafici/
+16:04:38 [INFO] === Esecuzione completata ===
